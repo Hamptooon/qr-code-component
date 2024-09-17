@@ -33,6 +33,7 @@ This small project consists of creating a QR code component made according to a 
 - **HTML5** for semantic layout practices
 - **SCSS** for advanced styling and style organization
 - **Flexbox** for positioning elements on the page
+- **Mobile-first approach** for better adaptability on all devices
 
 ### 📚 What I learned
 
@@ -40,6 +41,9 @@ This project helped me learn more deeply:
 - 💻 Using semantic layout to improve on-page SEO optimization
 - 📐 Using **CSS Flexbox** to create responsive layouts
 - 🎨 Using **SCSS** to structure and improve code
+- 📱 Development in **mobile-first approach** to optimize for mobile devices with further adaptation for large screens
+
+
 
 ## 🙋‍♂️ Author
 
